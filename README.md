@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anknown30
-- 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning HTML & CSS
+- 👀 I’m interested in Web Developing & Artificial Intelligence
+- 🌱 I’m currently learning HTML, CSS, and python
 
 <!---
 Anknown30/Anknown30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
